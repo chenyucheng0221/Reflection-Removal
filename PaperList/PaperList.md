@@ -14,3 +14,5 @@
 12. [Video Reflection Removal Through Spatio-Temporal Optimization](https://dspace.mit.edu/bitstream/handle/1721.1/137933/video-reflection-removal-through-spatio-temporal-optimization-iccv-2017-nandoriya-et-al.pdf?sequence=2) (ICCV 2017)
 13. [CoRRN: Cooperative Reflection Removal Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733000&tag=1) (TPAMI 2020)
 14. [Single Image Reflection Removal with Absorption Effect](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9577576) (CVPR 2021)
+15. [Location-aware Single Image Reflection Removal](https://www.semanticscholar.org/reader/704509696d225f71b6e7e1cbcaaa2daa20462785) (ICCV 2021)
+16. []
