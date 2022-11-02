@@ -1,6 +1,6 @@
 # PaperList
 
-1. [A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing](https://arxiv.org/pdf/1708.03474.pdf) (ICCV 2017)
+1. [A Generic Deep Architecture for Single Image Reflection Removal and Image Smoothing](https://arxiv.org/pdf/1708.03474.pdf) (ICCV 2017)[Note](https://github.com/chenyucheng0221/Reflection-Removal/blob/main/ResearchNote/Notes/Single%20Image%20Reflection%20Removal%20through%20Cascaded%20Refinement.md)
 2. [Single Image Reflection Removal Exploiting Misaligned Training Data and Network Enhancements](https://www.semanticscholar.org/reader/4184346f9e8548dbae33559a30290def2f0bf0f1) (CVPR 2019)
 3. [Exploiting Reflection Change for Automatic Reflection Removal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751413&tag=1) (ICCV 2013)
 4. [Seeing Deeply and Bidirectionally: A Deep Learning Approach for Single Image Reflection Removal](https://openaccess.thecvf.com/content_ECCV_2018/papers/Jie_Yang_Seeing_Deeply_and_ECCV_2018_paper.pdf) (ECCV 2018)
