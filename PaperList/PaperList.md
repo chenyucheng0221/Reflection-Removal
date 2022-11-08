@@ -29,5 +29,5 @@
 27. [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/pdf/2103.04273.pdf) (CVPR 2021)
 28. [Improved Multiple-Image-Based Reflection Removal Algorithm Using Deep Neural Networks](https://arxiv.org/pdf/2208.04679.pdf) (TIP 2020)
 29. [Panoramic Image Reflection Removal](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9578461) (CVPR 2021)
-30. [Learning to See Through Obstructions] (https://www.semanticscholar.org/reader/8395a6b8cc14effa9dd5c9b8465417a950725f43) (CVPR 2020)
+30. [Learning to See Through Obstructions](https://www.semanticscholar.org/reader/8395a6b8cc14effa9dd5c9b8465417a950725f43) (CVPR 2020)
 31. [Learning to See Through Obstructions With Layered Decomposition](https://www.semanticscholar.org/reader/2e58c67eca09943233f5c8c7f7dd8f36f96172de) (TPAMI 2020)
